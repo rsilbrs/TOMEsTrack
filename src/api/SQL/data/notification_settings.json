@@ -4,43 +4,13 @@
     "frequency": "daily",
     "dashboardIndicators": {
       "doacoesPorAfereses": true,
-      "doacoesPorSangueTotal": false,
+      "doacoesPorSangueTotal": true,
       "componentesProduzidos": true,
       "produtividade": true
     },
     "trimaIndicators": {
       "doacoesPorAfereses": false,
-      "plaquetasOfertadasColetadas": true,
-      "plaquetasPreDoador": false,
-      "htHbPreDoador": false,
-      "duracaoProcedimentos": false,
-      "top10Alarmes": false
-    },
-    "reveosIndicators": {
-      "componentesProcessados": true,
-      "duracao": true,
-      "volumeMedioPlaquetas": true,
-      "pyiPlaquetas": false,
-      "volumeMedioPlasma": false,
-      "volumeTotalPlasma": false,
-      "top10Alarmes": false
-    },
-    "lastUpdated": "2025-04-04T00:37:44.448Z",
-    "userId": "guest",
-    "username": "Terumo"
-  },
-  "TerumoBCT": {
-    "email": "rsilva.bmd@gmail.com",
-    "frequency": "monthly",
-    "dashboardIndicators": {
-      "doacoesPorAfereses": true,
-      "doacoesPorSangueTotal": true,
-      "componentesProduzidos": false,
-      "produtividade": false
-    },
-    "trimaIndicators": {
-      "doacoesPorAfereses": false,
-      "plaquetasOfertadasColetadas": true,
+      "plaquetasOfertadasColetadas": false,
       "plaquetasPreDoador": false,
       "htHbPreDoador": false,
       "duracaoProcedimentos": false,
@@ -55,7 +25,37 @@
       "volumeTotalPlasma": false,
       "top10Alarmes": false
     },
-    "lastUpdated": "2025-04-04T00:13:18.183Z",
+    "lastUpdated": "2025-04-04T02:12:05.688Z",
+    "userId": "guest",
+    "username": "Terumo"
+  },
+  "TerumoBCT": {
+    "email": "r1c4rdo_12@yahoo.com.br",
+    "frequency": "monthly",
+    "dashboardIndicators": {
+      "doacoesPorAfereses": true,
+      "doacoesPorSangueTotal": false,
+      "componentesProduzidos": false,
+      "produtividade": false
+    },
+    "trimaIndicators": {
+      "doacoesPorAfereses": false,
+      "plaquetasOfertadasColetadas": true,
+      "plaquetasPreDoador": false,
+      "htHbPreDoador": false,
+      "duracaoProcedimentos": false,
+      "top10Alarmes": false
+    },
+    "reveosIndicators": {
+      "componentesProcessados": false,
+      "duracao": false,
+      "volumeMedioPlaquetas": true,
+      "pyiPlaquetas": false,
+      "volumeMedioPlasma": false,
+      "volumeTotalPlasma": false,
+      "top10Alarmes": false
+    },
+    "lastUpdated": "2025-04-04T02:12:32.500Z",
     "userId": "guest",
     "username": "TerumoBCT"
   }
