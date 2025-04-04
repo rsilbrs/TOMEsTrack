@@ -42,7 +42,7 @@
   },
   "scripts": {
     "start": "concurrently \"npm run start:frontend\" \"npm run start:api\"",
-    "start:frontend": "GENERATE_SOURCEMAP=false react-scripts start",
+    "start:frontend": "DISABLE_ESLINT_PLUGIN=true GENERATE_SOURCEMAP=false react-scripts start",
     "start:api": "node -r dotenv/config src/api/SQL/server.js",
     "build": "GENERATE_SOURCEMAP=false react-scripts build",
     "test": "react-scripts test",
